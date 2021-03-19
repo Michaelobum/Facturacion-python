@@ -1,0 +1,4 @@
+1;Coca Cola;True
+2;Lenutrit;True
+3;Nestle;True
+4;Maggi;True

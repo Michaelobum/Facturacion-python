@@ -1,0 +1,8 @@
+1;lacteos;True
+2;Carnicos;True
+3;Verduras;True
+4;Cereales;True
+5;Aseo Personal;True
+6;Medicinas;True
+7;Bebidas;True
+8;Sporade;True
